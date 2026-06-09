@@ -1,3 +1,33 @@
+Title: September
+
+Description: " ... A story of homecomings and heartbreaks, friendships, betrayls, forgiveness, and love."--Publisher's website.
+
+Author: Rosamunde Pilcher
+
+catogorie: Fiction
+
+No ratings
+
+Title: Last Voyage of the Valentina
+
+Description: When Alba discovers a portrait of her deceased mother, she travels to the Amalfi coast of Italy to find out about her mother's past and not only discovers hidden secrets, but realizes the possibility of love and happiness in her own future.
+
+Author: Santa Montefiore
+
+catogorie: Fiction
+
+No ratings
+
+Title: Above and Beyond
+
+Description: Trevor's love for Kyla--the widow of his best friend--is complicated by a secret that threatens to destroy their fragile relationship
+
+Author: Sandra Brown
+
+catogorie: Fiction
+
+No ratings
+
 Title: Sons and Lovers
 
 Description: A provocative portrait of an artist torn between love for his possessive mother and desire for two young beautiful women. It is also the story of Paul Morel's growing into manhood torn by both inner and outer conflict.
@@ -8,11 +38,23 @@ catogorie: Fiction
 
 No ratings
 
-Title: September
+Title: Layla
 
-Description: " ... A story of homecomings and heartbreaks, friendships, betrayls, forgiveness, and love."--Publisher's website.
+Description: "When Leeds meets Layla, he's convinced he'll spend the rest of his life with her--until an unexpected attack leaves Layla fighting for her life. After weeks in the hospital, Layla recovers physically, but the emotional and mental scarring has altered the woman Leeds fell in love with. In order to put their relationship back on track, Leeds whisks Layla away to the bed-and-breakfast where they first met. Once they arrive, Layla's behavior takes a bizarre turn. And that's just one of many inexplicable occurrences."--
 
-Author: Rosamunde Pilcher
+Author: Colleen Hoover
+
+catogorie: Fiction
+
+Average Rating: 5.0
+Number of ratings: 2.0
+
+
+Title: Death of an Ancient King
+
+Description: A fable about the blindness of war, from a popular writer dubbed "le chouchou des libraires'" ("the darling of the booksellers") by the French press.
+
+Author: Laurent Gaudé
 
 catogorie: Fiction
 
@@ -40,69 +82,23 @@ Average Rating: 5.0
 Number of ratings: 1.0
 
 
-Title: Malafrena
+Title: The Horse Whisperer
 
-Description: Transports the reader to a Europe of the Imagination, Orsinia, when Itale Sorde is swept up in the revolutionary storms of his day, renouncing both his inheritance and the love of his life for his dream of revolution and the firey woman who wants him for her own.
+Description: His name is Tom. His voice can calm wild horses, his touch can heal broken spirits. And Annie has traveled a long ways to find him, desperate to heal her injured daughter, her horse, and her heart.
 
-Author: Ursula K. Le Guin
-
-catogorie: Fiction
-
-No ratings
-
-Title: Last Voyage of the Valentina
-
-Description: When Alba discovers a portrait of her deceased mother, she travels to the Amalfi coast of Italy to find out about her mother's past and not only discovers hidden secrets, but realizes the possibility of love and happiness in her own future.
-
-Author: Santa Montefiore
+Author: Nicholas Evans
 
 catogorie: Fiction
 
 No ratings
 
-Title: North and South
+Title: It's Not Summer Without You
 
-Description: Milton is a sooty, noisy northern town centred around the cotton mills that employ most of its inhavitants. Arriving from a rural idyll in the South, Margaret Hale is initially shocked by the social unrest and povery she finds in her new home town -- back cover.
+Description: One girl. Two brothers. Which one will she choose? Isabel's lazy, long hot summers at her family friends' beach house are over. Conrad - sexy and unavailable - is the only boy she's ever loved. He's left for college, taking her heart with him. Jeremiah, his gorgeous brother, is still Isabel's best friend - but maybe friendship isn't enough for him anymore . . . Isabel just wants everything to stay the same, because change means moving on. But if she stops looking back, will she find a future she never knew she wanted?
 
-Author: Elizabeth Cleghorn Gaskell
+Author: Jenny Han
 
-catogorie: England, Northern
+catogorie: Juvenile Fiction
 
 No ratings
-
-Title: Me Before You (Movie Tie-In)
-
-Description: Taking a job as an assistant to extreme sports enthusiast Will, who is wheelchair bound after a motorcycle accident, Louisa struggles with her employer's acerbic moods and learns of his shocking plans before demonstrating to him that life is still worth living.
-
-Author: Jojo Moyes
-
-catogorie: Fiction
-
-Average Rating: 5.0
-Number of ratings: 1.0
-
-
-Title: The Copper Beech
-
-Description: In the Irish town of Schancarrig, the young people carve their initials--and those of their loves-into the copper beech tree in front of the schoolhouse. But not even Father Gunn, the parish priest, who knows most of what goes on behind Shancarrig's closed doors, or Dr. Jims, the village doctor, who knows all the rest, realizes that not everything in the placid village is what it seems.
-
-Author: Maeve Binchy
-
-catogorie: Fiction
-
-Average Rating: 3.0
-Number of ratings: 1.0
-
-
-Title: Toxic Bachelors
-
-Description: Three daunting bachelors embark on a journey to the Mediterranean where they face women who challenge their deepest relationship phobias, sparking big changes in the once-carefree trio that just might put an end to their carousing days.
-
-Author: Danielle Steel
-
-catogorie: Fiction
-
-Average Rating: 5.0
-Number of ratings: 1.0
-
 

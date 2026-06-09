@@ -16,11 +16,15 @@
 // If you always assign it before use - no need to initialise
 int main(int argc, char **argv)
 {
+    if (argc < 2) {
+	fprintf(stderr, "Usage: %s <ENV_VAR_NAME>\n", argv[0]);
+	return 1;
+    }
     char *api_key = getenv(argv[1]);
 
     if (NULL == api_key) {
-	fprintf(stderr, "No api key found\n");
-	return -1;
+	fprintf(stderr, "No api key found: %s\n", argv[1]);
+	return 1;
     }
 
     FILE *ptr;
