@@ -10,11 +10,10 @@
 // SEARCH FUNCTION
 void search(char choice[], char input[])
 {
-    if(NULL== choice || NULL == input){
+    if ((NULL == choice) || (NULL == input)) {
         fprintf(stderr, "you passed a null pointer\n");
         return;
     }
-
     printf("WELCOME TO BOOK RECOMMENDATIONS!\n");
     while (1) {
 	printf
@@ -26,7 +25,7 @@ void search(char choice[], char input[])
 	if (NULL != fgets(choice, CHOICE_LEN, stdin)) {
 	    choice[strcspn(choice, "\n")] = '\0';
 	}
-
+	// TODO Add choice to exit
 	if (strcmp(choice, "1") != 0 &&
 	    strcmp(choice, "2") != 0 && strcmp(choice, "3") != 0) {
 	    printf("\nInvalid input. Please input 1, 2, 3\n");
@@ -46,6 +45,11 @@ void search(char choice[], char input[])
     } else if (strcmp(choice, "2") == 0) {
 	printf("You have asked for books based on Author\n");
 	printf("What Author would you like to see more books from: ");
+
+	/* TODO
+	 * This if statement should be a function because it is repeated
+	 * Add a check of strings which can be used i.e. fantasy
+	 */
 	if (NULL != fgets(input, INPUT_LEN, stdin)) {
 	    input[strcspn(input, "\n")] = '\0';
 
