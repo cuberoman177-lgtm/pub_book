@@ -10,6 +10,11 @@
 // SEARCH FUNCTION
 void search(char choice[], char input[])
 {
+    if(NULL== choice || NULL == input){
+        fprintf(stderr, "you passed a null pointer\n");
+        return;
+    }
+
     printf("WELCOME TO BOOK RECOMMENDATIONS!\n");
     while (1) {
 	printf
